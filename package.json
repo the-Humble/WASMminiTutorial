@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  },
+  "name": "wasmminitutorial",
+  "description": "Para poder utilizar WebAssembly con C++, es necesario usar una herramienta llamada Emscripten (https://emscripten.org/), que funciona como un compilador de código entre C++ y WebAssembly. En el ejemplo que vamos a generar hoy, estaremos creando un pequeño juego.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/the-Humble/WASMminiTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/the-Humble/WASMminiTutorial/issues"
+  },
+  "homepage": "https://github.com/the-Humble/WASMminiTutorial#readme"
+}
